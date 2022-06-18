@@ -9,7 +9,7 @@
         "HYPER-MOD"
     ],
     "website": "www.hypermodz.ml",
-    "repository": "https://github.com/HYPER-MODZ/image-editor-bot",
+    "repository": "https://github.com/aad05/image-editor-bot",
     "success_url": "https://t.me/hypermodofficial",
     "env": {
         "TG_BOT_TOKEN": {
